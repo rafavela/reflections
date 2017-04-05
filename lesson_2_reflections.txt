@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It start empty, without files in it. I need to track all my changes.
+
